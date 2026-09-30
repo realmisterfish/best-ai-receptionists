@@ -2,7 +2,7 @@
 
 A curated list of AI receptionists, AI answering services and live answering services for small businesses, with the pricing each vendor publishes. Grouped by how the product is set up and sold, so you can compare like with like.
 
-Prices come from each vendor's own pricing page and were checked between July and September 2026. Vendors reprice often, so confirm on the linked page before you buy. Corrections are welcome: open an issue or a pull request.
+Prices come from each vendor's own pricing page and were checked between July and September 2026 (Smith.ai, Specialty and Ruby re-checked 29 September). Vendors reprice often, so confirm on the linked page before you buy. Corrections are welcome: open an issue or a pull request.
 
 ## Contents
 
@@ -36,7 +36,6 @@ You set these up and maintain them yourself. Lowest entry prices; quality depend
 | [Frontdesk](https://www.myaifrontdesk.com/) (formerly My AI Front Desk) | $99/month (200 min) | Per minute, $0.25/min over | White-label options |
 | [AgentZap](https://agentzap.ai/) | $109/month | Minute buckets up to $899; $499 setup fee | Self-serve |
 | [NextPhone](https://www.getnextphone.com/) | $199/month | Monthly plan; $299 tier adds CRM and ServiceTitan | Trained on contractor calls |
-| [Smith.ai AI Receptionist](https://smith.ai/) | $150/month (Pro) | Per call; free and $500 Enterprise tiers | Also sells live agents (below) |
 
 ## Done-for-you and sales-led AI receptionists
 
@@ -68,11 +67,11 @@ Human operators working from a script you provide. Best for distressed callers a
 |---|---|---|
 | [CallExperts](https://callexperts.com/) | $135/month for 100 min | Per minute |
 | [Map Communications](https://mapcommunications.com/) | $179/month for 125 min | $1.28 to $1.37/min |
-| [Specialty Answering Service](https://www.specialtyansweringservice.net/) | $269/month for 220 min | $1.09 to $1.54/min |
+| [Specialty Answering Service](https://www.specialtyansweringservice.net/) | $269/month for 220 min | $1.44/min on that plan ($1.09 to $1.54 across plans), billed per second |
 | [PATLive](https://www.patlive.com/) | $349/month for 200 min | $1.64 to $2.99/min |
 | [Abby Connect](https://www.abby.com/) | $599/month for 200 min | Plan rate per minute |
-| [Ruby](https://ruby.com/) | $720/month for 200 min | Not published |
-| [Smith.ai live agents](https://smith.ai/) | $810/month for 90 calls | $10.50 per call |
+| [Ruby](https://ruby.com/) | $720/month for 200 min ($250 for 50) | Not published; optional AI included |
+| [Smith.ai](https://smith.ai/) (AI-first or human-first) | $300/month for 30 calls; $810 for 90 | $11.50 / $10.50 per call |
 | [AnswerForce](https://www.answerforce.com/) | Quote | Per minute |
 
 ## Guides by industry
